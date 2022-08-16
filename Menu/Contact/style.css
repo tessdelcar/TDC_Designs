@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Noto+Sans&display=swap');
+
+h1{
+    font-family: Dancing Script;
+    text-align: center;
+    /* color: #F17CB5; */
+    color: #F9849F;
+    font-size: 48pt;
+}
+
+p{
+  color: #80A685;
+  font-family: Noto;
+}
+
+a{
+  text-align: center;
+  list-style-type: none;
+  color: #7EF286;
+  /* color: #80A685; */
+  font-family: Noto;
+}
+
+ul li{
+    font-family: Noto;
+    display: inline;
+    /* list-style-type: none; */
+    text-align: center;
+    color: #83FF8D;
+    /* color: #80A685; */
+}
+
+body{
+  /* background-color: purple; */
+  /* background-image: url('Assets/sunset1.jpg'); */
+  background-image: url('Assets/Background.jpg');
+  background-position: center center fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #80A685;
+  font-family: Noto;
+  width: 100%;
+  height: 100vh;
+  padding: 30px;
+}
+
+p{
+  font-family: Noto;
+  text-align: center;
+  color: #fff;
+}
+
+#Desk{
+  background-position: center center fixed;
+  background-size: cover;
+  width: 100%;
+}
+
+#Links{
+  text-align: center;
+  font-family: Noto;
+  font-size: 24pt;
+  color: #B5B5B5;
+  /* color: #FFEC36; */
+}
+
+#nav-list{
+  background-position: center;
+  display: inline;
+  text-align: center;
+  font-family: Noto;
+  color: #80A685;
+}
+
+a:hover{
+  /* color: #fff; */
+  background-color: #F9849F;
+  color: #fff;
+}
