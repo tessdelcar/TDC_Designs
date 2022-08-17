@@ -2,22 +2,23 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Noto+Sans&display=swap');
 
-h1 h2 h3 h4{
+h1, h2, h3, h4{
     font-family: Dancing Script;
     text-align: center;
     /* color: #F17CB5; */
     color: #F9849F;
-    font-size: 48pt;
+    font-size: 35pt;
 }
 
 p{
-  color: #80A685;
+  text-align: center;
   font-family: Noto;
+  color: #80A685;
 }
 
 a{
   text-align: center;
-  list-style-type: none;
+  /* list-style-type: none; */
   color: #7EF286;
   /* color: #80A685; */
   font-family: Noto;
@@ -26,7 +27,7 @@ a{
 ul li{
     font-family: Noto;
     display: inline;
-    /* list-style-type: none; */
+    list-style-type: none;
     text-align: center;
     color: #83FF8D;
     /* color: #80A685; */
@@ -43,13 +44,19 @@ body{
   font-family: Noto;
   width: 100%;
   height: 100vh;
-  padding: 30px;
+  /* padding: 30px; */
 }
 
 p{
   font-family: Noto;
   text-align: center;
   color: #fff;
+}
+
+#Tess{
+    text-align: center;
+    background-position: center center fixed;
+    padding-top: 50px;
 }
 
 #Desk{
@@ -67,8 +74,6 @@ p{
 }
 
 #nav-list{
-  background-position: center;
-  display: inline;
   text-align: center;
   font-family: Noto;
   color: #80A685;
