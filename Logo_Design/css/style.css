@@ -306,7 +306,7 @@ nav h2 {
 
   #hero {
     background-image: url("../assets/IMG_0910.jpg");
-    object-fit: cover;
+    object-fit: none;
   }
 
 }
