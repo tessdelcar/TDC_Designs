@@ -304,16 +304,8 @@ nav h2 {
     margin: 0 auto;
   }
 
-  #hero {
-    background-image: url("../assets/IMG_0910.jpg");
+  #hero img {
     object-fit: cover;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    background-position: center;
-    background-size: cover;
-    background-attachment: fixed;
   }
 
 }
