@@ -261,7 +261,7 @@ main {
 
 /* content parallax */
 .parallax-bg {
-  height:400px;
+  height: 400px;
   background-size: cover;
   background-attachment: fixed;
 }
