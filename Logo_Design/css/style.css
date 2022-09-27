@@ -303,4 +303,12 @@ nav h2 {
     width: 100%;
     margin: 0 auto;
   }
+
+  #hero img {
+    background-position: center;
+    height: auto;
+    width: 100%;
+    margin: 0 auto;
+  }
+
 }
