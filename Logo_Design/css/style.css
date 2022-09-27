@@ -307,13 +307,13 @@ nav h2 {
   #hero {
     background-image: url("../assets/IMG_0910.jpg");
     object-fit: cover;
-    height: 80vh;
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
     background-position: center;
     background-size: cover;
+    background-attachment: fixed;
   }
 
 }
