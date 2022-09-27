@@ -304,7 +304,8 @@ nav h2 {
     margin: 0 auto;
   }
 
-  #hero img {
+  #hero {
+    background-image: url("../assets/IMG_0910.jpg");
     background-position: center;
     height: auto;
     width: 100%;
