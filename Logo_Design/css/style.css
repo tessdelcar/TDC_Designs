@@ -304,9 +304,7 @@ nav h2 {
     margin: 0 auto;
   }
 
-  #hero {
-    background-image: url("../assets/IMG_0910.jpg");
-    object-fit: none;
-  }
+  #hero img {
+    object-fit: scale-down;
 
 }
